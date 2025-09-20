@@ -17,9 +17,5 @@ It mimics Amazon's homepage, product listing, and navigation bar design.
 1. Clone the repository: `git clone <repo-link>`
 2. Open `index.html` in your browser
 
-## Screenshot
-![Homepage](screenshot.png)  
-![Footer] (footer.png)
-
 ## Author
 Prachi Prajapati
